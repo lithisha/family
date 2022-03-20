@@ -7,3 +7,5 @@ Yasoda branch
 Kogila branch
 Sathish
 Gatik
+Thanisha
+Aswetha
